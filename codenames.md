@@ -7,7 +7,7 @@ Codenames
 * Ellada (old name for Greece)
 * Fringilla
 * Gabriella/Gellivara
-* Hollandia
+* Hollandia/Hakoila/Hellenic/Halana
 * Isabella/Illyria
 * Joëlla
-* Ka-Ata-Killa/Kalliope
+* Ka-Ata-Killa/Kalliope/Kaguya
