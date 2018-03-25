@@ -1,6 +1,7 @@
 # release-plan
 Roadmap for our Manjaro install media releases
 
+* [17.2](https://github.com/manjaro/release-plan/milestones/17.2) - Illyria
 * [17.1](https://github.com/manjaro/release-plan/milestones/17.1) - Hakoila
 * [17.0](https://github.com/manjaro/release-plan/milestones/17.0) - Gellivara
   * [17.0.1](https://github.com/manjaro/release-plan/milestones/17.0.1) - Gellivara
