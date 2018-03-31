@@ -8,6 +8,6 @@ Codenames
 * Fringilla
 * Gabriella/Gellivara
 * Hollandia/Hakoila/Hellenic/Halana
-* Isabella/Illyria
+* Illyria
 * Joëlla
 * Ka-Ata-Killa/Kalliope/Kaguya
