@@ -10,4 +10,5 @@ Codenames
 * Hollandia/Hakoila/Hellenic/Halana
 * Illyria
 * Joëlla
-* Ka-Ata-Killa/Kalliope/Kaguya
+* Ka-Ata-Killa/Kalliope/Kaguya/Kyria
+* Lysia
