@@ -9,6 +9,6 @@ Codenames
 * Gabriella/Gellivara
 * Hollandia/Hakoila/Hellenic/Halana
 * Illyria
-* Joëlla
-* Ka-Ata-Killa/Kalliope/Kaguya/Kyria
+* Joëlla/**Juhraya**
+* Ka-Ata-Killa/Kalliope/Kaguya/**Kyria**
 * Lysia
